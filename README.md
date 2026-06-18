@@ -1,5 +1,7 @@
 # Job Hunt Copilot — Claude Skill
 
+![Job Hunt Copilot cover](assets/cover.svg)
+
 A Claude Code skill that bootstraps a complete, self-improving job-search system for Product Managers (or any senior individual contributor). One conversation sets up everything; every application after that makes the system smarter.
 
 ---
